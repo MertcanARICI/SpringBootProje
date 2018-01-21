@@ -30,8 +30,8 @@ public class RESTServisi {
 	}
 
 	@RequestMapping("/haber/temizle")
-    public String haberTemizle(){
-            HABERLER.clear();
-            return "Haberler Silindi.";
-        }
+	public String haberTemizle() {
+		HABERLER.clear();
+		return "Haberler Silindi.";
+	}
 }
