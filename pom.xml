@@ -9,7 +9,6 @@
 	<packaging>jar</packaging>
 
 	<name>SpringBootProje</name>
-	<description>Demo project for Spring Boot</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -47,4 +46,5 @@
 	</build>
 
 
+	<description>SpringBoot Proje Ödevi</description>
 </project>
